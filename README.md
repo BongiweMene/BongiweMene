@@ -3,7 +3,6 @@
 </div>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,50:29243D,100:6D5BA6&height=200&section=header&text=Bongiwe%20Mene&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=ICT%20Graduate%20%7C%20AI%20Engineering%20Candidate&descAlignY=58&descSize=16" width="100%" />
 
 # Hi, I'm Bongiwe! 👋
 
